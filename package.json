@@ -81,7 +81,7 @@
     "file-icons-js": "^1.1.0",
     "framer-motion": "^10.15.0",
     "i18next": "^23.3.0",
-    "i18next-http-backend": "^2.2.1",
+    "i18next-http-backend": "^4.0.2",
     "lodash.debounce": "^4.0.8",
     "lodash.findlastindex": "^4.6.0",
     "lodash.flatten": "^4.4.0",
